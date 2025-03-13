@@ -1,5 +1,4 @@
 # BI_Driven_Financial_Analytics_Suite
-# Financial Reporting in Power BI
 
 ### 1. Description:
 This project focuses on creating comprehensive financial reports using Power BI, leveraging Data Analysis Expressions (DAX), Excel data, and provided templates. The financial reports include detailed Balance Sheet, Income Statement, and Cash Flow Statement, offering stakeholders a visually-rich and insightful overview of the company's financial health.
